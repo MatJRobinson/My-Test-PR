@@ -1,2 +1,2 @@
 # My-Test-PR
-This repo is to test pull requests
+This is a test repo for the practicals
